@@ -4,13 +4,6 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devjpedro&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpedro&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
-</div>
-
-<br>
-
 <div align="center"> 
 <a href="https://www.instagram.com/jotape.ti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:joaopedross.ti9@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
