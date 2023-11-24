@@ -16,10 +16,12 @@
 ![CSS3](https://img.shields.io/badge/css3-0d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-0d1117.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
 
 ### Studying in this moment:
-![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-0d1117.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
+![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
