@@ -20,6 +20,7 @@
 
 ### Studying in this moment:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0d1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
+![Next JS](https://img.shields.io/badge/Next-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
