@@ -17,9 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-0d1117.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-0d1117.svg?style=for-the-badge&logo=typescript&logoColor=23007ACC)
 ![React](https://img.shields.io/badge/react-0d1117.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0d1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
 
 ### Studying in this moment:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-0d1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
 ![Next JS](https://img.shields.io/badge/Next-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
 
 <div align="center">
