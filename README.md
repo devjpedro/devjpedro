@@ -9,9 +9,10 @@ Iniciei minha jornada no desenvolvimento em 2021 e, desde então, venho constant
 # 📊 GitHub Stats:
 
  <div>
+    <div>
     <img src="https://github-readme-stats.vercel.app/api?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjpedro&theme=dark&hide_border=false" alt="GitHub Streak"/>
-    <br />
+    </div>
    <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
    </div>
