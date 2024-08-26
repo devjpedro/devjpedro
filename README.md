@@ -6,12 +6,12 @@ Iniciei minha jornada no desenvolvimento em 2021 e, desde então, venho constant
 # 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 48%; height: 190px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjpedro&theme=dark&hide_border=false" style="width: 48%; height: 190px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="height: 190px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjpedro&theme=dark&hide_border=false" style="height: 190px;"/>
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 190px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjpedro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 
