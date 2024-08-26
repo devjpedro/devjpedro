@@ -11,4 +11,7 @@ Iniciei minha jornada no desenvolvimento em 2021 e, desde então, venho constant
 ---
 [![](https://visitcount.itsvg.in/api?id=devjpedro&icon=1&color=6)](https://visitcount.itsvg.in)
 
+---
+![Snake animation](https://github.com/devjpedro/devjpedro/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
