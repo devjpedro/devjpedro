@@ -1,3 +1,6 @@
+![Descrição do GIF](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyNzkwODYsIm5iZiI6MTcyNTI3ODc4NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAyVDEyMDYyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlOThjMGQ5ZDI4MzQ3MmE4NDk4YzAxYzhkMWJlN2JkODcxNzNjYzk0ZTBlNjYzZDBkMThjNWQ3YWZjNzk3NDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ombAOVc5ipiozgTS_p1OlTBa8b3XpXASWLdDf8HstJ4)
+
+
 # 💫 Sobre Mim
 Iniciei minha jornada no desenvolvimento em 2021 e, desde então, venho constantemente aprimorando minhas habilidades para entregar soluções de alta qualidade. Atualmente, atuo como Desenvolvedor Front-end na PlayMóvel Tecnologia, onde utilizo tecnologias modernas como React, Next.js, TypeScript, entre outras. No momento, estou focado no desenvolvimento do Sistema de Gerenciamento Móvel (SGM), utilizando Next.js e TailwindCSS para criar interfaces responsivas e eficientes.
 # 💻 Tecnologias:
