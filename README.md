@@ -1,6 +1,3 @@
-![Descrição do GIF](https://s4.ezgif.com/tmp/ezgif-4-1f5c13c3f2.gif)
-
-
 # 💫 Sobre Mim
 Iniciei minha jornada no desenvolvimento em 2021 e, desde então, venho constantemente aprimorando minhas habilidades para entregar soluções de alta qualidade. Atualmente, atuo como Desenvolvedor Front-end na PlayMóvel Tecnologia, onde utilizo tecnologias modernas como React, Next.js, TypeScript, entre outras. No momento, estou focado no desenvolvimento do Sistema de Gerenciamento Móvel (SGM), utilizando Next.js e TailwindCSS para criar interfaces responsivas e eficientes.
 # 💻 Tecnologias:
